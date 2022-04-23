@@ -12,8 +12,9 @@ I am a Prime Minister's Research Fellow at the [Department of Electrical Communi
 
 Work Experience
 ----------
-* Teaching assistant, [E@-203 - O Wireless Communications](https://course.iisc.ac.in/course/view.php?id=41), ECE, IISc Bangalore (March 2022 - April 2022)
+* Teaching assistant, E2-203- O Wireless Communications, ECE, IISc Bangalore (March 2022 - April 2022) 
 * Book revision, Wireless Communications, Andreas F. Molisch (May 2021 - Present)
+* Teaching assistant, E2-203 Wireless Communications, ECE, IISc Bangalore (Jan 2021 - May 2021)
 * Senior engineer, Samsung Semicaductors Institute R & D (Jul. 2019 - Dec. 2019)
 
 Education
