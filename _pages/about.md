@@ -12,17 +12,12 @@ I am a Prime Minister's Research Fellow at the [Department of Electrical Communi
 
 Work Experience
 ----------
-* Post-doctoral researcher, IISc Bangalore, India (Dec. 2020 -- present)
-* Visiting Researcher, IISc Bangalore, India (Sept. 2020 -- Nov. 2020)
-* Research Engineer, INRIA Sophia Antipolis & Nokia Bell Labs, France (Jan. 2020 -- Apr. 2020)
-* Senior Research Fellow, SRIC, IIT Kharagpur, India (Feb. 2016 - Oct. 2018)
-* Senior Project Officer, SRIC, IIT Kharagpur, India (Aug. 2014 - Jan. 2016)
-* Junior Project Officer, SRIC, IIT Kharagpur, India (Aug. 2013 - Jul. 2014)
-* Junior Project Assistant, SRIC, IIT Kharagpur, India (Aug. 2012 - Jul. 2013)
+* Teaching assistant, [E@-203 - O Wireless Communications](https://course.iisc.ac.in/course/view.php?id=41), ECE, IISc Bangalore (March 2022 - April 2022)
+* Book revision, Wireless Communications, Andreas F. Molisch (May 2021 - Present)
+* Senior engineer, Samsung Semicaductors Institute R & D (Jul. 2019 - Dec. 2019)
 
 Education
 ---------
-* PhD, Indian Institute of Technology Kharagpur, India (2015 -- 2020)
-* MS (by Research), Indian Institute of Technology Kharagpur, India (2012 -- 2015)
-* BTech (ECE), West Bengal University of Technology, India (2007 -- 2011)
+* PhD, Indian Institute of Science, India (2020 -- Present)
+* B.E. (ETCE), Jadavpur University, India (2015 -- 2019)
 
