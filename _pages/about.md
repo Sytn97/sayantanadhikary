@@ -19,6 +19,6 @@ Work Experience
 
 Education
 ---------
-* PhD, Indian Institute of Science, India (2020 -- Present)
-* B.E. (ETCE), Jadavpur University, India (2015 -- 2019)
+* PhD, [Electrical Communication Engineering, Indian Institute of Science](https://ece.iisc.ac.in/), India (2020 -- Present)
+* B.E., [Electronics and Tele-communications Engineering, Jadavpur University](http://www.jaduniv.edu.in/view_department.php?deptid=84), India (2015 -- 2019)
 
