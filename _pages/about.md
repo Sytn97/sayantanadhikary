@@ -15,7 +15,7 @@ Work Experience
 * Teaching assistant, E2-203- O Wireless Communications, ECE, IISc Bangalore (March 2022 - April 2022) 
 * Book revision, Wireless Communications, Andreas F. Molisch (May 2021 - Present)
 * Teaching assistant, E2-203 Wireless Communications, ECE, IISc Bangalore (Jan 2021 - May 2021)
-* Senior engineer, Samsung Semicaductors Institute R & D (Jul. 2019 - Dec. 2019)
+* Senior engineer, Samsung Semiconuctors Institute R & D (Jul. 2019 - Dec. 2019)
 
 Education
 ---------
