@@ -3,17 +3,17 @@ main:
   - title: "Home"
     url: /   
 
-  - title: "Research"
-    url: /research/    
+#  - title: "Research"
+#    url: /research/    
     
   - title: "Publications"
     url: /publication/
     
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
         
-  - title: "Awards & Achievements"
-    url: /awards/
+#  - title: "Awards & Achievements"
+#    url: /awards/
     
-  - title: "Services"
-    url: /service/
+#  - title: "Services"
+#    url: /service/
